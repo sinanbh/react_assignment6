@@ -5,7 +5,6 @@ import Home from './components/home';
 import Students from './components/students';
 import Navbar from './components/navbar';
 import Edit from './components/edit'
-import StudentData from './components/studentData';
 
 function App() {
   return (
